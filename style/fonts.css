@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('/fonts/metropolis.medium.otf') format('otf'),
+    url('/fonts/metropolis.medium.ttf') format('ttf'),
+    url('/fonts/metropolis.medium.woff'), format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('/fonts/metropolis.bold.otf') format('otf'), 
+    url('/fonts/metropolis.bold.ttf') format('ttf'), 
+    url('/fonts/metropolis.bold.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
